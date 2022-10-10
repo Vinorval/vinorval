@@ -3,10 +3,6 @@
 </h1>
 <h3 align="center">Frontend-разработчик, который в активном поиске работы)</h3>
  
-
-Когда приходит немного время передохнуть, то мне нравится поиграть в приставку или собраться с друзьями за игрой в настолку)
-
- 
 #### Мой стек)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
