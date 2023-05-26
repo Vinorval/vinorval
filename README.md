@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">Frontend-разработчик, который в активном поиске работы)</h3>
  
-#### Мой стек)
+#### Мой стек:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
