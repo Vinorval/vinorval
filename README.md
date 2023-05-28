@@ -19,10 +19,10 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-#### Небольшая статистика по использованию языка
+#### Небольшая статистика по использованию языка:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinorval&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Чтоб связаться со мной, достаточно написать на мою почту или в телеграм
+#### Чтоб связаться со мной, достаточно написать на мою почту или в телеграм:
 * email: vinorval@yandex.ru
 * Telegram: @vinorval
