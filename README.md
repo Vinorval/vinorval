@@ -23,6 +23,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinorval&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Чтоб связаться со мной, достаточно написать на мою почту или в телеграм:
+#### Чтоб связаться со мной, достаточно написать мне на мою почту или в телеграм:
 * email: vinorval@yandex.ru
 * Telegram: @vinorval
