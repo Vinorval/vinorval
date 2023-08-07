@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Я Валерия, a это мой профиль на GitHub 
+<h1 align="center">Привет! Я Валерия, a это мой профиль на GitHub! 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <h3 align="center">Frontend-разработчик, который в активном поиске работы</h3>
