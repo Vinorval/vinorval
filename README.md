@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">Frontend-разработчик, который в активном поиске работы</h3>
  
-#### Мой стек:
+###№ Мой стек:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -19,7 +19,7 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-#### Небольшая статистика по использованию языка:
+#### Cтатистика по использованию языка:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinorval&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
